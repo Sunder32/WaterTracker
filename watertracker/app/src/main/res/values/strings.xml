@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Трекер воды</string>
+
+    <!-- Main Screen -->
+    <string name="daily_goal">Дневная цель</string>
+    <string name="current_progress">Текущий прогресс</string>
+    <string name="add_water">Добавить воду</string>
+    <string name="quick_add">Быстрое добавление</string>
+    <string name="glass">Стакан</string>
+    <string name="bottle">Бутылка</string>
+    <string name="liter">Литр</string>
+
+    <!-- Navigation -->
+    <string name="home">Главная</string>
+    <string name="history">История</string>
+    <string name="statistics">Статистика</string>
+    <string name="settings">Настройки</string>
+
+    <!-- Notifications -->
+    <string name="notification_title">Время пить воду! 💧</string>
+    <string name="notification_text">Не забудьте выпить стакан воды для здоровья</string>
+    <string name="channel_name">Напоминания о воде</string>
+    <string name="channel_description">Уведомления для напоминания пить воду</string>
+
+    <!-- Motivational messages -->
+    <string name="goal_achieved">🎉 Отлично! Цель достигнута!</string>
+    <string name="almost_done">💪 Почти готово! Осталось немного!</string>
+    <string name="good_progress">👍 Хороший прогресс!</string>
+    <string name="start_day">🚀 Начните свой день с воды!</string>
+
+    <!-- History -->
+    <string name="water_history">История приёма воды</string>
+    <string name="empty_history">История пуста</string>
+    <string name="start_tracking">Начните отслеживать потребление воды</string>
+    <string name="delete">Удалить</string>
+
+    <!-- Statistics -->
+    <string name="today_consumed">Сегодня выпито</string>
+    <string name="weekly_total">За неделю</string>
+    <string name="intake_count">Количество приёмов</string>
+    <string name="average_volume">Средний объём</string>
+    <string name="goal_colon">Цель: %1$s мл</string>
+    <string name="average_daily">Среднее: %1$s мл/день</string>
+    <string name="today">Сегодня</string>
+    <string name="per_intake_today">За приём сегодня</string>
+
+    <!-- Settings -->
+    <string name="goal_settings">Настройка цели</string>
+    <string name="set_daily_goal">Установите дневную цель потребления воды (мл):</string>
+    <string name="goal_ml">Цель в мл</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+
+    <!-- Units -->
+    <string name="ml">мл</string>
+    <string name="ml_format">%1$d мл</string>
+    <string name="percent_format">%1$d%%</string>
+    <string name="of_goal">из %1$d мл</string>
+
+    <!-- Reminders -->
+    <string name="test_reminder">Тестовое напоминание</string>
+    <string name="reminder_interval">Интервал напоминаний</string>
+    <string name="every_hour">Каждый час</string>
+    <string name="every_2_hours">Каждые 2 часа</string>
+    <string name="every_3_hours">Каждые 3 часа</string>
+    <string name="reminder_enabled">Напоминания включены</string>
+    <string name="reminder_disabled">Напоминания отключены</string>
+</resources>
