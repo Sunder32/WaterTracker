@@ -73,7 +73,7 @@ com.example.watertracker/
 ### Шаги установки
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-username/water-tracker.git
+   https://github.com/Sunder32/WaterTracker.git
    ```
 
 2. Откройте проект в Android Studio
