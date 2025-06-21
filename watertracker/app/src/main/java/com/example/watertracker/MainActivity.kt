@@ -96,8 +96,7 @@ class MainActivity : ComponentActivity() {
     }
 
     private fun setupNotifications() {
-        // Здесь можно настроить периодические уведомления
-        // Для демонстрации отправим уведомление через 5 секунд
+
         Timer().schedule(object : TimerTask() {
             override fun run() {
                 sendNotification()
@@ -277,7 +276,7 @@ fun MainScreen(
             .padding(16.dp),
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
-        // Прогресс-кольцо
+
         Box(
             modifier = Modifier.size(200.dp),
             contentAlignment = Alignment.Center
@@ -315,7 +314,7 @@ fun MainScreen(
 
         Spacer(modifier = Modifier.height(32.dp))
 
-        // Мотивационное сообщение
+
         Card(
             modifier = Modifier.fillMaxWidth(),
             colors = CardDefaults.cardColors(
@@ -343,7 +342,7 @@ fun MainScreen(
 
         Spacer(modifier = Modifier.height(24.dp))
 
-        // Быстрые кнопки добавления
+
         Text(
             text = "Быстрое добавление",
             fontSize = 18.sp,
@@ -377,7 +376,7 @@ fun MainScreen(
 
         Spacer(modifier = Modifier.weight(1f))
 
-        // Кнопка напоминания
+
         Button(
             onClick = sendNotification,
             modifier = Modifier

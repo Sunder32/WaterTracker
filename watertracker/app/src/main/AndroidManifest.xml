@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.example.watertracker">
 
-    <!-- Разрешения -->
+
     <uses-permission
         android:name="android.permission.POST_NOTIFICATIONS"
         tools:targetApi="33" />
@@ -20,7 +20,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Watertracker">
 
-        <!-- Главная активность -->
+
         <activity
             android:name=".MainActivity"
             android:exported="true"
@@ -31,13 +31,13 @@
             </intent-filter>
         </activity>
 
-        <!-- Сервис напоминания -->
+
         <service
             android:name=".WaterReminderService"
             android:enabled="true"
             android:exported="false" />
 
-        <!-- Приемник уведомлений -->
+
         <receiver
             android:name=".WaterReminderReceiver"
             android:enabled="true"
