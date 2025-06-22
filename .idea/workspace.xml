@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8213cf3e-02d9-4ca6-a270-64984c886436" name="Changes" comment="" />
+    <list default="true" id="8213cf3e-02d9-4ca6-a270-64984c886436" name="Changes" comment="Fix apk" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,10 +15,23 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Sunder32"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Sunder32/WaterTracker.git",
+    "accountId": "b7a8febc-7a25-4826-8098-f0a570e53abb"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2yoqiR3wTEmq24awxJk0GJ3Udsv" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -35,7 +48,7 @@
     "com.google.services.firebase.aqiPopupShown": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/waterTrackerr/watertracker"
+    "last_opened_file_path": "D:/waterTrackerr"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -47,6 +60,28 @@
       <option name="presentableId" value="Default" />
       <updated>1750511400214</updated>
     </task>
+    <task id="LOCAL-00001" summary="Fix apk">
+      <option name="closed" value="true" />
+      <created>1750512245948</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1750512245948</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Fix apk">
+      <option name="closed" value="true" />
+      <created>1750512283060</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1750512283060</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix apk" />
+    <MESSAGE value="Fix apk" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix apk" />
   </component>
 </project>
